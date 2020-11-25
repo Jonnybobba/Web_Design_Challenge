@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: white;
+    background: rgb(20, 160, 216)
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+.sm {
+    width: 256px;
+    margin-right: 5px;
+}
+.med {
+    float: left;
+    width: 512px;
+    margin-right: 10px
+}
+
+p {width: 1028px;}
+
+.p {
+    color: white;
+    list-style-position: inside;
+}
+
+
