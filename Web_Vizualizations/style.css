@@ -10,6 +10,7 @@ body {
 
 h1 {
     font-size: 40px;
+    width: 800px;
     font-weight: bold;
     color: white;
 }
@@ -30,11 +31,19 @@ h2 {
     margin-right: 10px
 }
 
-p {width: 1028px;}
+p {
+
+    width: 512px;
+}
 
 .p {
     color: white;
     list-style-position: inside;
 }
 
+table{
+    border-color: white;
+    outline-color: white;
+    position: center;
+}
 
