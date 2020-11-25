@@ -22,13 +22,15 @@ h2 {
 }
 
 .sm {
-    width: 256px;
+    width: 400px;
     margin-right: 5px;
+    margin-bottom: 5px;
 }
 .med {
     float: left;
     width: 512px;
-    margin-right: 10px
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 p {
